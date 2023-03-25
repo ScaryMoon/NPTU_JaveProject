@@ -1,3 +1,3 @@
 # NPTU_JaveProject
 SnakeGame
-![plot](./OAO.gif)
+![Screenshot](./OAO.gif)
