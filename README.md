@@ -1,3 +1,2 @@
 # NPTU_JaveProject
-SnakeGame
-![Screenshot](./OAO.gif)
+I'm a team player
