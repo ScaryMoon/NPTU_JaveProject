@@ -1,8 +1,6 @@
 # NPTU_software-engineering
 ### project demo
-
-3319lines   
-780lines  
+~4000 lines of code  
 
 https://github.com/ScaryMoon/NPTU_JaveProject/assets/93481378/4cd589ce-77f2-44db-a053-8c4b8c296b3e
 
